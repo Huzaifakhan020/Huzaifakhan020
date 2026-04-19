@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is HUZAIFA AHMED KHAN</h1>
-<h3 align="center">A passionate computer scientist from Pakitan</h3>
+<h3 align="center">A passionate computer scientist from Pakistan</h3>
 
 - 🔭 I’m currently working on my own digital assistant **Jarvis AI**
 
