@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own digital assistant **Jarvis AI**
 
-- 🌱 I’m currently learning ML/AI and JS **AI, Machine Learning, Python, Javascript**
+- 🌱 I’m currently learning ML/AI and JS **(AI, Machine Learning, Python, Javascript)**
 
 - 📫 How to reach me [huzaifaahmedkhan18@gmail.com](huzaifaahmedkhan18@gmail.com)
 
