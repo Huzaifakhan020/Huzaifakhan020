@@ -13,5 +13,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/huzaifaahmedkhan018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifaahmedkhan018" height="30" width="40" /></a>
 <a href="https://instagram.com/huzaii018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huzaii018" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/huzi playz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="huzi playz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@huziplayz9038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="huzi playz" height="30" width="40" /></a>
 </p>
